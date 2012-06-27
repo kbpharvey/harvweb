@@ -1,151 +1,151 @@
 what,kind,bundleId,bundleVersion,description,time
-activated,perspective,org.eclipse.php.ui,,"org.eclipse.php.perspective",1340829350041
-started,bundle,org.eclipse.osgi,3.6.2.R36x_v20110210,"org.eclipse.osgi",1340829350043
-started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20100503,"org.eclipse.equinox.simpleconfigurator",1340829350045
-started,bundle,com.ibm.icu,4.2.1.v20100412,"com.ibm.icu",1340829350046
-started,bundle,org.eclipse.core.contenttype,3.4.100.v20100505-1235,"org.eclipse.core.contenttype",1340829350047
-started,bundle,org.eclipse.core.databinding.observable,1.3.0.I20100601-0800,"org.eclipse.core.databinding.observable",1340829350049
-started,bundle,org.eclipse.core.expressions,3.4.200.v20100505,"org.eclipse.core.expressions",1340829350050
-started,bundle,org.eclipse.core.filebuffers,3.5.100.v20100520-0800,"org.eclipse.core.filebuffers",1340829350050
-started,bundle,org.eclipse.core.filesystem,1.3.1.R36x_v20100727-0745,"org.eclipse.core.filesystem",1340829350052
-started,bundle,org.eclipse.core.jobs,3.5.1.R36x_v20100824,"org.eclipse.core.jobs",1340829350053
-started,bundle,org.eclipse.core.net,1.2.100.I20100511-0800,"org.eclipse.core.net",1340829350054
-started,bundle,org.eclipse.core.resources,3.6.1.R36x_v20110131-1630,"org.eclipse.core.resources",1340829350054
-started,bundle,org.eclipse.core.runtime,3.6.0.v20100505,"org.eclipse.core.runtime",1340829350055
-started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1340829350056
-started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20100517,"org.eclipse.core.runtime.compatibility.auth",1340829350056
-started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1340829350057
-started,bundle,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui",1340829350086
-started,bundle,org.eclipse.dltk.core,2.0.1.v20100806-1245,"org.eclipse.dltk.core",1340829350087
-started,bundle,org.eclipse.dltk.core.index.sql,2.0.1.v20100909-1720,"org.eclipse.dltk.core.index.sql",1340829350089
-started,bundle,org.eclipse.dltk.core.index.sql.h2,2.0.1.v20100909-1720,"org.eclipse.dltk.core.index.sql.h2",1340829350090
-started,bundle,org.eclipse.dltk.launching,2.0.0.v20100806-1245,"org.eclipse.dltk.launching",1340829350091
-started,bundle,org.eclipse.dltk.ui,2.0.0.v20100909-1720,"org.eclipse.dltk.ui",1340829350093
-started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201102081640,"org.eclipse.epp.usagedata.gathering",1340829350094
-started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201102081640,"org.eclipse.epp.usagedata.recording",1340829350095
-started,bundle,org.eclipse.equinox.app,1.3.1.R36x_v20100803,"org.eclipse.equinox.app",1340829350096
-started,bundle,org.eclipse.equinox.common,3.6.0.v20100503,"org.eclipse.equinox.common",1340829350096
-started,bundle,org.eclipse.equinox.ds,1.2.1.R36x_v20100803,"org.eclipse.equinox.ds",1340829350097
-started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1340829350098
-started,bundle,org.eclipse.equinox.p2.core,2.0.3.R36x_v20110111,"org.eclipse.equinox.p2.core",1340829350099
-started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.203.R36x_v20101220,"org.eclipse.equinox.p2.directorywatcher",1340829350100
-started,bundle,org.eclipse.equinox.p2.engine,2.0.1.R36x_v20110201,"org.eclipse.equinox.p2.engine",1340829350100
-started,bundle,org.eclipse.equinox.p2.metadata,2.0.1.R36x_v20101202,"org.eclipse.equinox.p2.metadata",1340829350101
-started,bundle,org.eclipse.equinox.p2.metadata.repository,1.1.0.v20100513,"org.eclipse.equinox.p2.metadata.repository",1340829350102
-started,bundle,org.eclipse.equinox.p2.operations,2.0.0.v20100510,"org.eclipse.equinox.p2.operations",1340829350102
-started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.2.R36x_v20110114,"org.eclipse.equinox.p2.reconciler.dropins",1340829350103
-started,bundle,org.eclipse.equinox.p2.repository,2.0.2.R36x_v20110111-1500,"org.eclipse.equinox.p2.repository",1340829350103
-started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1340829350104
-started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.101.R36x_v20100823,"org.eclipse.equinox.p2.updatechecker",1340829350104
-started,bundle,org.eclipse.equinox.preferences,3.3.0.v20100503,"org.eclipse.equinox.preferences",1340829350105
-started,bundle,org.eclipse.equinox.registry,3.5.0.v20100503,"org.eclipse.equinox.registry",1340829350106
-started,bundle,org.eclipse.equinox.security,1.0.200.v20100503,"org.eclipse.equinox.security",1340829350106
-started,bundle,org.eclipse.equinox.util,1.0.200.v20100503,"org.eclipse.equinox.util",1340829350107
-started,bundle,org.eclipse.help,3.5.0.v20100524,"org.eclipse.help",1340829350108
-started,bundle,org.eclipse.jface,3.6.2.M20110210-1200,"org.eclipse.jface",1340829350108
-started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1340829350109
-started,bundle,org.eclipse.ltk.core.refactoring,3.5.101.r362_v20101117-0800,"org.eclipse.ltk.core.refactoring",1340829350110
-started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1340829350110
-started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1340829350111
-started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1340829350111
-started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1340829350112
-started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1340829350113
-started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1340829350113
-started,bundle,org.eclipse.mylyn.monitor.ui,3.4.1.v20110131-0100-e3x,"org.eclipse.mylyn.monitor.ui",1340829350114
-started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1340829350114
-started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1340829350115
-started,bundle,org.eclipse.php.core,2.2.1.v20101001-2300,"org.eclipse.php.core",1340829350115
-started,bundle,org.eclipse.php.debug.core,2.2.0.v20101001-2300,"org.eclipse.php.debug.core",1340829350116
-started,bundle,org.eclipse.php.debug.daemon,2.2.0.v20101001-2300,"org.eclipse.php.debug.daemon",1340829350116
-started,bundle,org.eclipse.php.debug.ui,2.2.0.v20101001-2300,"org.eclipse.php.debug.ui",1340829350117
-started,bundle,org.eclipse.php.server.core,2.2.0.v20101001-2300,"org.eclipse.php.server.core",1340829350117
-started,bundle,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui",1340829350119
-started,bundle,org.eclipse.team.core,3.5.101.R36x_v20110203-1036,"org.eclipse.team.core",1340829350119
-started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1340829350120
-started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1340829350121
-started,bundle,org.eclipse.team.ui,3.5.102.R36x_v20110203-1036,"org.eclipse.team.ui",1340829350121
-started,bundle,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui",1340829350122
-started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1340829350123
-started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1340829350123
-started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1340829350124
-started,bundle,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.ide",1340829350125
-started,bundle,org.eclipse.ui.intro,3.4.0.v20100427,"org.eclipse.ui.intro",1340829350125
-started,bundle,org.eclipse.ui.intro.universal,3.2.402.r36_v20100702,"org.eclipse.ui.intro.universal",1340829350125
-started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1340829350125
-started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1340829350126
-started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1340829350126
-started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1340829350127
-started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1340829350128
-started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1340829350128
-started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1340829350129
-started,bundle,org.eclipse.wst.jsdt.core,1.1.4.v201102102045,"org.eclipse.wst.jsdt.core",1340829350129
-started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.200.v201004150600,"org.eclipse.wst.jsdt.manipulation",1340829350130
-started,bundle,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui",1340829350130
-started,bundle,org.eclipse.wst.sse.core,1.1.504.v201102160550,"org.eclipse.wst.sse.core",1340829350131
-started,bundle,org.eclipse.wst.sse.ui,1.2.3.v201102102045,"org.eclipse.wst.sse.ui",1340829350131
-os,sysinfo,,,"win32",1340829350135
-arch,sysinfo,,,"x86_64",1340829350135
-ws,sysinfo,,,"win32",1340829350135
-locale,sysinfo,,,"en_GB",1340829350135
-processors,sysinfo,,,"4",1340829350135
-java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1340829350135
-java.runtime.version,sysinfo,,,"1.6.0_33-b03",1340829350135
-java.specification.name,sysinfo,,,"Java Platform API Specification",1340829350135
-java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1340829350135
-java.specification.version,sysinfo,,,"1.6",1340829350135
-java.vendor,sysinfo,,,"Sun Microsystems Inc.",1340829350135
-java.version,sysinfo,,,"1.6.0_33",1340829350135
-java.vm.info,sysinfo,,,"mixed mode",1340829350135
-java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1340829350135
-java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1340829350135
-java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1340829350135
-java.vm.specification.version,sysinfo,,,"1.0",1340829350135
-java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1340829350135
-java.vm.version,sysinfo,,,"20.8-b03",1340829350135
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1340829351764
-activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1340829351855
-closed,view,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.internal.introview",1340829351882
-started,bundle,org.eclipse.dltk.rse.core,2.0.1.v20100804-1944,"org.eclipse.dltk.rse.core",1340829357361
-started,bundle,org.eclipse.rse.core,3.1.102.R32x_v201102011435,"org.eclipse.rse.core",1340829357383
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829357384
-started,bundle,org.eclipse.rse.services,3.2.2.R32x_v201102011435,"org.eclipse.rse.services",1340829357422
-started,bundle,org.eclipse.rse.ui,3.1.102.R32x_v201102011435,"org.eclipse.rse.ui",1340829357659
-started,bundle,org.eclipse.rse.subsystems.files.core,3.2.1.v201008191400,"org.eclipse.rse.subsystems.files.core",1340829357664
-started,bundle,org.eclipse.rse.subsystems.files.local,2.1.101.v200907301400,"org.eclipse.rse.subsystems.files.local",1340829357666
-started,bundle,org.eclipse.rse.subsystems.shells.core,3.1.100.v201003010830,"org.eclipse.rse.subsystems.shells.core",1340829357683
-started,bundle,org.eclipse.rse.subsystems.shells.local,2.1.100.v200905272300,"org.eclipse.rse.subsystems.shells.local",1340829357684
-started,bundle,org.eclipse.rse.connectorservice.local,2.1.100.v200905272300,"org.eclipse.rse.connectorservice.local",1340829357698
-started,bundle,org.eclipse.rse.services.local,2.1.202.R32x_v201102011435,"org.eclipse.rse.services.local",1340829357699
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829357829
-deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829358106
-started,bundle,org.eclipse.jdt.core,3.6.2.v_A76_R36x,"org.eclipse.jdt.core",1340829367894
-started,bundle,org.eclipse.jdt.launching,3.5.200.v20110105_r362,"org.eclipse.jdt.launching",1340829367924
-started,bundle,org.eclipse.wst.server.core,1.1.206.v20110110,"org.eclipse.wst.server.core",1340829367965
-started,bundle,org.eclipse.dltk.rse.ui,2.0.0.v20100115-2213,"org.eclipse.dltk.rse.ui",1340829370654
-started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20100520-0800,"org.eclipse.jdt.core.manipulation",1340829372320
-started,bundle,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui",1340829372766
-started,bundle,org.eclipse.jgit,2.0.0.201206130900-r,"org.eclipse.jgit",1340829373006
-started,bundle,org.eclipse.egit.core,2.0.0.201206130900-r,"org.eclipse.egit.core",1340829373542
-started,bundle,org.eclipse.egit.ui,2.0.0.201206130900-r,"org.eclipse.egit.ui",1340829373836
-activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829375959
-started,bundle,org.eclipse.wst.validation,1.2.201.v201101270100,"org.eclipse.wst.validation",1340829376089
-started,bundle,org.eclipse.wst.common.project.facet.core,1.4.102.v201008170019,"org.eclipse.wst.common.project.facet.core",1340829376158
-started,bundle,org.eclipse.wst.css.core,1.1.402.v201102031915,"org.eclipse.wst.css.core",1340829376527
-started,bundle,org.eclipse.wst.xml.core,1.1.503.v201102102045,"org.eclipse.wst.xml.core",1340829376612
-started,bundle,org.eclipse.wst.html.core,1.1.404.v201101190004,"org.eclipse.wst.html.core",1340829376625
-started,bundle,org.eclipse.wst.common.frameworks,1.2.0.v201003040800,"org.eclipse.wst.common.frameworks",1340829376890
-started,bundle,org.eclipse.dltk.validators.core,1.0.0.v20100524-0038,"org.eclipse.dltk.validators.core",1340829377061
-started,bundle,org.eclipse.wst.dtd.core,1.1.401.v201101122255,"org.eclipse.wst.dtd.core",1340829377070
-started,bundle,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.ui",1340829377084
-started,bundle,org.eclipse.wst.xsd.core,1.1.503.v201011121919,"org.eclipse.wst.xsd.core",1340829377255
-started,bundle,org.eclipse.wst.xsl.core,1.1.0.v201004290328,"org.eclipse.wst.xsl.core",1340829377425
-started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1340829380284
-started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1340829381621
-started,bundle,org.eclipse.emf.common,2.6.0.v20100914-1218,"org.eclipse.emf.common",1340829381881
-started,bundle,org.eclipse.emf.ecore,2.6.1.v20100914-1218,"org.eclipse.emf.ecore",1340829381947
-started,bundle,org.eclipse.emf.ecore.xmi,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.xmi",1340829383116
-started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1340829383368
-started,bundle,org.eclipse.wst.common.emf,1.2.3.v201012100400,"org.eclipse.wst.common.emf",1340829383494
-started,bundle,org.eclipse.jem.util,2.1.3.v201012070000,"org.eclipse.jem.util",1340829383560
-started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.3.v201012020600,"org.eclipse.wst.common.emfworkbench.integration",1340829383566
-started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1340829383669
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/images/ui-icons_cd0a0a_256x240.png'.",1340830047704
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery-ui.css'.",1340830047705
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.accordion.css'.",1340830047706
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.all.css'.",1340830047706
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.autocomplete.css'.",1340830047706
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.base.css'.",1340830047707
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.button.css'.",1340830047707
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.core.css'.",1340830047708
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.datepicker.css'.",1340830047708
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.dialog.css'.",1340830047709
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.progressbar.css'.",1340830047709
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.resizable.css'.",1340830047710
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.selectable.css'.",1340830047710
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.slider.css'.",1340830047711
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.tabs.css'.",1340830047711
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/css/base/jquery.ui.theme.css'.",1340830047712
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/js/jquery-ui-i18n.min.js'.",1340830047712
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/jui/js/jquery-ui.min.js'.",1340830047712
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/rating/delete.gif'.",1340830047713
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/rating/jquery.rating.css'.",1340830047713
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/rating/star.gif'.",1340830047714
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/ajax-loader.gif'.",1340830047715
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/file.gif'.",1340830047715
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/folder-closed.gif'.",1340830047716
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/folder.gif'.",1340830047717
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/minus.gif'.",1340830047718
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/plus.gif'.",1340830047719
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-black-line.gif'.",1340830047720
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-black.gif'.",1340830047721
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-default-line.gif'.",1340830047722
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-default.gif'.",1340830047723
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-famfamfam-line.gif'.",1340830047724
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-famfamfam.gif'.",1340830047725
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-gray-line.gif'.",1340830047726
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-gray.gif'.",1340830047727
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-red-line.gif'.",1340830047728
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/images/treeview-red.gif'.",1340830047729
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/treeview/jquery.treeview.css'.",1340830047729
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/js/source/yiitab/jquery.yiitab.css'.",1340830047730
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/renderers/CPradoViewRenderer.php'.",1340830047731
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/renderers/CViewRenderer.php'.",1340830047731
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/services/CWebService.php'.",1340830047732
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/services/CWebServiceAction.php'.",1340830047732
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/services/CWsdlGenerator.php'.",1340830047733
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CActiveForm.php'.",1340830047733
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CAutoComplete.php'.",1340830047734
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CClipWidget.php'.",1340830047735
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CContentDecorator.php'.",1340830047735
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CFilterWidget.php'.",1340830047736
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CFlexWidget.php'.",1340830047736
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CHtmlPurifier.php'.",1340830047737
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CInputWidget.php'.",1340830047737
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CMarkdown.php'.",1340830047738
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CMaskedTextField.php'.",1340830047738
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CMultiFileUpload.php'.",1340830047739
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/COutputCache.php'.",1340830047739
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/COutputProcessor.php'.",1340830047740
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CStarRating.php'.",1340830047740
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CTabView.php'.",1340830047741
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CTextHighlighter.php'.",1340830047741
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CTreeView.php'.",1340830047741
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/CWidget.php'.",1340830047742
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/captcha/CCaptcha.php'.",1340830047743
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/captcha/CCaptchaAction.php'.",1340830047743
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/captcha/Duality.ttf'.",1340830047743
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/pagers/CBasePager.php'.",1340830047744
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/pagers/CLinkPager.php'.",1340830047744
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/pagers/CListPager.php'.",1340830047745
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/pagers/pager.css'.",1340830047745
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/web/widgets/views/flexWidget.php'.",1340830047746
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/yii-powered.png'.",1340830047746
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/yii.php'.",1340830047747
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/yiic'.",1340830047747
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/yiic.bat'.",1340830047748
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/yiic.php'.",1340830047748
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/yiilite.php'.",1340830047749
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/yiit.php'.",1340830047749
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/behaviors/CTimestampBehavior.php'.",1340830047750
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/CBaseListView.php'.",1340830047750
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/CBreadcrumbs.php'.",1340830047751
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/CDetailView.php'.",1340830047751
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/CListView.php'.",1340830047751
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/CMenu.php'.",1340830047752
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/CPortlet.php'.",1340830047752
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/grid/CButtonColumn.php'.",1340830047753
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/grid/CCheckBoxColumn.php'.",1340830047753
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/grid/CDataColumn.php'.",1340830047754
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/grid/CGridColumn.php'.",1340830047754
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/grid/CGridView.php'.",1340830047755
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/grid/CLinkColumn.php'.",1340830047756
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiAccordion.php'.",1340830047756
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiAutoComplete.php'.",1340830047757
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiButton.php'.",1340830047758
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiDatePicker.php'.",1340830047758
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiDialog.php'.",1340830047759
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiDraggable.php'.",1340830047760
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiDroppable.php'.",1340830047760
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiInputWidget.php'.",1340830047761
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiProgressBar.php'.",1340830047762
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiResizable.php'.",1340830047762
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiSelectable.php'.",1340830047763
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiSlider.php'.",1340830047763
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiSliderInput.php'.",1340830047764
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiSortable.php'.",1340830047764
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiTabs.php'.",1340830047765
+error,log,,,"Resource is out of sync with the file system: '/harvweb/framework/zii/widgets/jui/CJuiWidget.php'.",1340830047765
+error,log,,,"Resource is out of sync with the file system: '/harvweb/index-test.php'.",1340830047766
+error,log,,,"Resource is out of sync with the file system: '/harvweb/index.php'.",1340830047766
+error,log,,,"Resource is out of sync with the file system: '/harvweb/index_orig.php'.",1340830047767
+error,log,,,"Resource is out of sync with the file system: '/harvweb/newfile.php'.",1340830047768
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/.htaccess'.",1340830047768
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/components/Controller.php'.",1340830047769
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/components/UserIdentity.php'.",1340830047769
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/config/console.php'.",1340830047770
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/config/main.php'.",1340830047770
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/config/main.php~'.",1340830047771
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/config/test.php'.",1340830047772
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/controllers/BudgetController.php'.",1340830047772
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/controllers/MenuController.php'.",1340830047773
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/controllers/SiteController.php'.",1340830047773
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/data/schema.mysql.sql'.",1340830047774
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/data/schema.sqlite.sql'.",1340830047774
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/data/testdrive.db'.",1340830047775
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/models/Budget.php'.",1340830047775
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/models/ContactForm.php'.",1340830047776
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/models/LoginForm.php'.",1340830047777
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/models/Menu.php'.",1340830047777
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/tests/WebTestCase.php'.",1340830047778
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/tests/bootstrap.php'.",1340830047778
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/tests/functional/SiteTest.php'.",1340830047779
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/tests/phpunit.xml'.",1340830047779
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/budget/_form.php'.",1340830047780
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/budget/_search.php'.",1340830047780
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/budget/_view.php'.",1340830047781
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/budget/admin.php'.",1340830047781
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/budget/create.php'.",1340830047782
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/budget/index.php'.",1340830047782
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/budget/update.php'.",1340830047783
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/budget/view.php'.",1340830047783
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/layouts/column1.php'.",1340830047784
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/layouts/column2.php'.",1340830047784
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/layouts/main.php'.",1340830047785
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/menu/_form.php'.",1340830047785
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/menu/_search.php'.",1340830047786
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/menu/_view.php'.",1340830047786
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/menu/admin.php'.",1340830047787
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/menu/create.php'.",1340830047787
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/menu/index.php'.",1340830047788
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/menu/update.php'.",1340830047788
+error,log,,,"Resource is out of sync with the file system: '/harvweb/protected/views/menu/view.php'.",1340830047789

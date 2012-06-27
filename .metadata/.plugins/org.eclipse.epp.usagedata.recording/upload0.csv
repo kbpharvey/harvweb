@@ -1,0 +1,226 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,perspective,org.eclipse.php.ui,,"org.eclipse.php.perspective",1340829350041
+started,bundle,org.eclipse.osgi,3.6.2.R36x_v20110210,"org.eclipse.osgi",1340829350043
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20100503,"org.eclipse.equinox.simpleconfigurator",1340829350045
+started,bundle,com.ibm.icu,4.2.1.v20100412,"com.ibm.icu",1340829350046
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20100505-1235,"org.eclipse.core.contenttype",1340829350047
+started,bundle,org.eclipse.core.databinding.observable,1.3.0.I20100601-0800,"org.eclipse.core.databinding.observable",1340829350049
+started,bundle,org.eclipse.core.expressions,3.4.200.v20100505,"org.eclipse.core.expressions",1340829350050
+started,bundle,org.eclipse.core.filebuffers,3.5.100.v20100520-0800,"org.eclipse.core.filebuffers",1340829350050
+started,bundle,org.eclipse.core.filesystem,1.3.1.R36x_v20100727-0745,"org.eclipse.core.filesystem",1340829350052
+started,bundle,org.eclipse.core.jobs,3.5.1.R36x_v20100824,"org.eclipse.core.jobs",1340829350053
+started,bundle,org.eclipse.core.net,1.2.100.I20100511-0800,"org.eclipse.core.net",1340829350054
+started,bundle,org.eclipse.core.resources,3.6.1.R36x_v20110131-1630,"org.eclipse.core.resources",1340829350054
+started,bundle,org.eclipse.core.runtime,3.6.0.v20100505,"org.eclipse.core.runtime",1340829350055
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1340829350056
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20100517,"org.eclipse.core.runtime.compatibility.auth",1340829350056
+started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1340829350057
+started,bundle,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui",1340829350086
+started,bundle,org.eclipse.dltk.core,2.0.1.v20100806-1245,"org.eclipse.dltk.core",1340829350087
+started,bundle,org.eclipse.dltk.core.index.sql,2.0.1.v20100909-1720,"org.eclipse.dltk.core.index.sql",1340829350089
+started,bundle,org.eclipse.dltk.core.index.sql.h2,2.0.1.v20100909-1720,"org.eclipse.dltk.core.index.sql.h2",1340829350090
+started,bundle,org.eclipse.dltk.launching,2.0.0.v20100806-1245,"org.eclipse.dltk.launching",1340829350091
+started,bundle,org.eclipse.dltk.ui,2.0.0.v20100909-1720,"org.eclipse.dltk.ui",1340829350093
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201102081640,"org.eclipse.epp.usagedata.gathering",1340829350094
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201102081640,"org.eclipse.epp.usagedata.recording",1340829350095
+started,bundle,org.eclipse.equinox.app,1.3.1.R36x_v20100803,"org.eclipse.equinox.app",1340829350096
+started,bundle,org.eclipse.equinox.common,3.6.0.v20100503,"org.eclipse.equinox.common",1340829350096
+started,bundle,org.eclipse.equinox.ds,1.2.1.R36x_v20100803,"org.eclipse.equinox.ds",1340829350097
+started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1340829350098
+started,bundle,org.eclipse.equinox.p2.core,2.0.3.R36x_v20110111,"org.eclipse.equinox.p2.core",1340829350099
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.203.R36x_v20101220,"org.eclipse.equinox.p2.directorywatcher",1340829350100
+started,bundle,org.eclipse.equinox.p2.engine,2.0.1.R36x_v20110201,"org.eclipse.equinox.p2.engine",1340829350100
+started,bundle,org.eclipse.equinox.p2.metadata,2.0.1.R36x_v20101202,"org.eclipse.equinox.p2.metadata",1340829350101
+started,bundle,org.eclipse.equinox.p2.metadata.repository,1.1.0.v20100513,"org.eclipse.equinox.p2.metadata.repository",1340829350102
+started,bundle,org.eclipse.equinox.p2.operations,2.0.0.v20100510,"org.eclipse.equinox.p2.operations",1340829350102
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.2.R36x_v20110114,"org.eclipse.equinox.p2.reconciler.dropins",1340829350103
+started,bundle,org.eclipse.equinox.p2.repository,2.0.2.R36x_v20110111-1500,"org.eclipse.equinox.p2.repository",1340829350103
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1340829350104
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.101.R36x_v20100823,"org.eclipse.equinox.p2.updatechecker",1340829350104
+started,bundle,org.eclipse.equinox.preferences,3.3.0.v20100503,"org.eclipse.equinox.preferences",1340829350105
+started,bundle,org.eclipse.equinox.registry,3.5.0.v20100503,"org.eclipse.equinox.registry",1340829350106
+started,bundle,org.eclipse.equinox.security,1.0.200.v20100503,"org.eclipse.equinox.security",1340829350106
+started,bundle,org.eclipse.equinox.util,1.0.200.v20100503,"org.eclipse.equinox.util",1340829350107
+started,bundle,org.eclipse.help,3.5.0.v20100524,"org.eclipse.help",1340829350108
+started,bundle,org.eclipse.jface,3.6.2.M20110210-1200,"org.eclipse.jface",1340829350108
+started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1340829350109
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.101.r362_v20101117-0800,"org.eclipse.ltk.core.refactoring",1340829350110
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1340829350110
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1340829350111
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1340829350111
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1340829350112
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1340829350113
+started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1340829350113
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.1.v20110131-0100-e3x,"org.eclipse.mylyn.monitor.ui",1340829350114
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1340829350114
+started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1340829350115
+started,bundle,org.eclipse.php.core,2.2.1.v20101001-2300,"org.eclipse.php.core",1340829350115
+started,bundle,org.eclipse.php.debug.core,2.2.0.v20101001-2300,"org.eclipse.php.debug.core",1340829350116
+started,bundle,org.eclipse.php.debug.daemon,2.2.0.v20101001-2300,"org.eclipse.php.debug.daemon",1340829350116
+started,bundle,org.eclipse.php.debug.ui,2.2.0.v20101001-2300,"org.eclipse.php.debug.ui",1340829350117
+started,bundle,org.eclipse.php.server.core,2.2.0.v20101001-2300,"org.eclipse.php.server.core",1340829350117
+started,bundle,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui",1340829350119
+started,bundle,org.eclipse.team.core,3.5.101.R36x_v20110203-1036,"org.eclipse.team.core",1340829350119
+started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1340829350120
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1340829350121
+started,bundle,org.eclipse.team.ui,3.5.102.R36x_v20110203-1036,"org.eclipse.team.ui",1340829350121
+started,bundle,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui",1340829350122
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1340829350123
+started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1340829350123
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1340829350124
+started,bundle,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.ide",1340829350125
+started,bundle,org.eclipse.ui.intro,3.4.0.v20100427,"org.eclipse.ui.intro",1340829350125
+started,bundle,org.eclipse.ui.intro.universal,3.2.402.r36_v20100702,"org.eclipse.ui.intro.universal",1340829350125
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1340829350125
+started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1340829350126
+started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1340829350126
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1340829350127
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1340829350128
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1340829350128
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1340829350129
+started,bundle,org.eclipse.wst.jsdt.core,1.1.4.v201102102045,"org.eclipse.wst.jsdt.core",1340829350129
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.200.v201004150600,"org.eclipse.wst.jsdt.manipulation",1340829350130
+started,bundle,org.eclipse.wst.jsdt.ui,1.1.4.v201102160540,"org.eclipse.wst.jsdt.ui",1340829350130
+started,bundle,org.eclipse.wst.sse.core,1.1.504.v201102160550,"org.eclipse.wst.sse.core",1340829350131
+started,bundle,org.eclipse.wst.sse.ui,1.2.3.v201102102045,"org.eclipse.wst.sse.ui",1340829350131
+os,sysinfo,,,"win32",1340829350135
+arch,sysinfo,,,"x86_64",1340829350135
+ws,sysinfo,,,"win32",1340829350135
+locale,sysinfo,,,"en_GB",1340829350135
+processors,sysinfo,,,"4",1340829350135
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1340829350135
+java.runtime.version,sysinfo,,,"1.6.0_33-b03",1340829350135
+java.specification.name,sysinfo,,,"Java Platform API Specification",1340829350135
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1340829350135
+java.specification.version,sysinfo,,,"1.6",1340829350135
+java.vendor,sysinfo,,,"Sun Microsystems Inc.",1340829350135
+java.version,sysinfo,,,"1.6.0_33",1340829350135
+java.vm.info,sysinfo,,,"mixed mode",1340829350135
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1340829350135
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1340829350135
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1340829350135
+java.vm.specification.version,sysinfo,,,"1.0",1340829350135
+java.vm.vendor,sysinfo,,,"Sun Microsystems Inc.",1340829350135
+java.vm.version,sysinfo,,,"20.8-b03",1340829350135
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1340829351764
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1340829351855
+closed,view,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.internal.introview",1340829351882
+started,bundle,org.eclipse.dltk.rse.core,2.0.1.v20100804-1944,"org.eclipse.dltk.rse.core",1340829357361
+started,bundle,org.eclipse.rse.core,3.1.102.R32x_v201102011435,"org.eclipse.rse.core",1340829357383
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829357384
+started,bundle,org.eclipse.rse.services,3.2.2.R32x_v201102011435,"org.eclipse.rse.services",1340829357422
+started,bundle,org.eclipse.rse.ui,3.1.102.R32x_v201102011435,"org.eclipse.rse.ui",1340829357659
+started,bundle,org.eclipse.rse.subsystems.files.core,3.2.1.v201008191400,"org.eclipse.rse.subsystems.files.core",1340829357664
+started,bundle,org.eclipse.rse.subsystems.files.local,2.1.101.v200907301400,"org.eclipse.rse.subsystems.files.local",1340829357666
+started,bundle,org.eclipse.rse.subsystems.shells.core,3.1.100.v201003010830,"org.eclipse.rse.subsystems.shells.core",1340829357683
+started,bundle,org.eclipse.rse.subsystems.shells.local,2.1.100.v200905272300,"org.eclipse.rse.subsystems.shells.local",1340829357684
+started,bundle,org.eclipse.rse.connectorservice.local,2.1.100.v200905272300,"org.eclipse.rse.connectorservice.local",1340829357698
+started,bundle,org.eclipse.rse.services.local,2.1.202.R32x_v201102011435,"org.eclipse.rse.services.local",1340829357699
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829357829
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829358106
+started,bundle,org.eclipse.jdt.core,3.6.2.v_A76_R36x,"org.eclipse.jdt.core",1340829367894
+started,bundle,org.eclipse.jdt.launching,3.5.200.v20110105_r362,"org.eclipse.jdt.launching",1340829367924
+started,bundle,org.eclipse.wst.server.core,1.1.206.v20110110,"org.eclipse.wst.server.core",1340829367965
+started,bundle,org.eclipse.dltk.rse.ui,2.0.0.v20100115-2213,"org.eclipse.dltk.rse.ui",1340829370654
+started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20100520-0800,"org.eclipse.jdt.core.manipulation",1340829372320
+started,bundle,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui",1340829372766
+started,bundle,org.eclipse.jgit,2.0.0.201206130900-r,"org.eclipse.jgit",1340829373006
+started,bundle,org.eclipse.egit.core,2.0.0.201206130900-r,"org.eclipse.egit.core",1340829373542
+started,bundle,org.eclipse.egit.ui,2.0.0.201206130900-r,"org.eclipse.egit.ui",1340829373836
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829375959
+started,bundle,org.eclipse.wst.validation,1.2.201.v201101270100,"org.eclipse.wst.validation",1340829376089
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.102.v201008170019,"org.eclipse.wst.common.project.facet.core",1340829376158
+started,bundle,org.eclipse.wst.css.core,1.1.402.v201102031915,"org.eclipse.wst.css.core",1340829376527
+started,bundle,org.eclipse.wst.xml.core,1.1.503.v201102102045,"org.eclipse.wst.xml.core",1340829376612
+started,bundle,org.eclipse.wst.html.core,1.1.404.v201101190004,"org.eclipse.wst.html.core",1340829376625
+started,bundle,org.eclipse.wst.common.frameworks,1.2.0.v201003040800,"org.eclipse.wst.common.frameworks",1340829376890
+started,bundle,org.eclipse.dltk.validators.core,1.0.0.v20100524-0038,"org.eclipse.dltk.validators.core",1340829377061
+started,bundle,org.eclipse.wst.dtd.core,1.1.401.v201101122255,"org.eclipse.wst.dtd.core",1340829377070
+started,bundle,org.eclipse.wst.html.ui,1.0.504.v201101122108,"org.eclipse.wst.html.ui",1340829377084
+started,bundle,org.eclipse.wst.xsd.core,1.1.503.v201011121919,"org.eclipse.wst.xsd.core",1340829377255
+started,bundle,org.eclipse.wst.xsl.core,1.1.0.v201004290328,"org.eclipse.wst.xsl.core",1340829377425
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1340829380284
+started,bundle,org.eclipse.wst.xsl.exslt.core,1.0.0.v201005240426,"org.eclipse.wst.xsl.exslt.core",1340829381621
+started,bundle,org.eclipse.emf.common,2.6.0.v20100914-1218,"org.eclipse.emf.common",1340829381881
+started,bundle,org.eclipse.emf.ecore,2.6.1.v20100914-1218,"org.eclipse.emf.ecore",1340829381947
+started,bundle,org.eclipse.emf.ecore.xmi,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.xmi",1340829383116
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1340829383368
+started,bundle,org.eclipse.wst.common.emf,1.2.3.v201012100400,"org.eclipse.wst.common.emf",1340829383494
+started,bundle,org.eclipse.jem.util,2.1.3.v201012070000,"org.eclipse.jem.util",1340829383560
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.2.3.v201012020600,"org.eclipse.wst.common.emfworkbench.integration",1340829383566
+started,bundle,org.eclipse.wst.common.core,1.2.0.v200908252030,"org.eclipse.wst.common.core",1340829383669
+started,bundle,org.eclipse.wst.common.modulecore,1.2.5.v201101270100,"org.eclipse.wst.common.modulecore",1340829383673
+started,bundle,org.eclipse.dltk.validators.externalchecker,1.0.0.v20090803-1754,"org.eclipse.dltk.validators.externalchecker",1340829390222
+started,bundle,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui",1340829391210
+started,bundle,org.eclipse.wst.jsdt.web.ui,1.0.304.v201012160349,"org.eclipse.wst.jsdt.web.ui",1340829391447
+started,bundle,org.eclipse.wst.jsdt.web.core,1.0.304.v201102160550,"org.eclipse.wst.jsdt.web.core",1340829391474
+started,bundle,org.eclipse.wst.css.ui,1.0.502.v201101122002,"org.eclipse.wst.css.ui",1340829392532
+started,bundle,org.eclipse.search,3.6.0.v20100520-0800,"org.eclipse.search",1340829393608
+started,bundle,org.eclipse.wst.dtd.ui,1.0.500.v201004290328,"org.eclipse.wst.dtd.ui",1340829393857
+started,bundle,org.eclipse.compare.core,3.5.101.R36x_v20100929-0800,"org.eclipse.compare.core",1340829393999
+opened,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1340829394104
+activated,editor,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.editor",1340829394632
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829400995
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829404824
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1340829410452
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829411889
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829513288
+activated,view,org.eclipse.php.ui,2.2.1.v20101001-2300,"org.eclipse.php.ui.explorer",1340829517759
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340829519422
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1340830028747
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.buildpath'.",1340830031410
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.gitignore'.",1340830031413
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.lock'.",1340830031414
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.log'.",1340830031416
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.mylyn/repositories.xml.zip'.",1340830031418
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.history/57/101341edf7be0011166af409ea1af056'.",1340830031419
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/a3/4e/67/5a/4b/properties.index'.",1340830031421
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/a3/4e/8d/properties.index'.",1340830031423
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/a3/4e/bd/properties.index'.",1340830031425
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/40/93/properties.index'.",1340830031427
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/40/ed/da/properties.index'.",1340830031429
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ae/properties.index'.",1340830031430
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/af/40/93/properties.index'.",1340830031432
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/af/40/ed/da/properties.index'.",1340830031434
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/af/properties.index'.",1340830031436
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/0/properties.index'.",1340830031438
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/1/properties.index'.",1340830031440
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/10/properties.index'.",1340830031444
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/11/properties.index'.",1340830031446
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/12/properties.index'.",1340830031448
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/13/properties.index'.",1340830031450
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/14/properties.index'.",1340830031452
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/15/properties.index'.",1340830031454
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/16/properties.index'.",1340830031456
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/17/properties.index'.",1340830031457
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/18/properties.index'.",1340830031458
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/19/properties.index'.",1340830031460
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/1a/properties.index'.",1340830031461
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/1b/properties.index'.",1340830031462
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/1c/properties.index'.",1340830031463
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/1d/properties.index'.",1340830031465
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/1e/properties.index'.",1340830031466
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/1f/properties.index'.",1340830031468
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/2/properties.index'.",1340830031470
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/20/properties.index'.",1340830031471
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/21/properties.index'.",1340830031473
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/22/properties.index'.",1340830031474
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/23/properties.index'.",1340830031475
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/24/properties.index'.",1340830031476
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/25/properties.index'.",1340830031477
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/26/properties.index'.",1340830031479
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/27/properties.index'.",1340830031480
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/28/properties.index'.",1340830031481
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/29/properties.index'.",1340830031483
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/2a/properties.index'.",1340830031484
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/2b/properties.index'.",1340830031485
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/2c/properties.index'.",1340830031486
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/2d/properties.index'.",1340830031487
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/2e/properties.index'.",1340830031488
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/2f/properties.index'.",1340830031490
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/3/properties.index'.",1340830031491
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/30/properties.index'.",1340830031491
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/31/properties.index'.",1340830031492
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/32/properties.index'.",1340830031493
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/33/properties.index'.",1340830031494
+error,log,,,"Resource is out of sync with the file system: '/harvweb/.metadata/.plugins/org.eclipse.core.resources/.projects/harvweb/.indexes/37/37/37/37/37/37/37/37/e4/ec/34/properties.index'.",1340830031495
