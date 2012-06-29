@@ -3,14 +3,15 @@
 $env = $_SERVER['HTTP_HOST'];
 $yii=dirname(__FILE__).'/framework/yii.php';
 if ($env == 'localhost:8080')
-{
-echo 'dev';
-$config=dirname(__FILE__).'/protected/config/main_dev.php';
-}
-else
-{
-$config=dirname(__FILE__).'/protected/config/main.php';
-}
+		{
+		$file = 'main_dev.php';
+		}
+	else
+		{
+		$file = 'main.php';
+		}
+$config=dirname(__FILE__)."/protected/config/$file";
+echo $config;
 // remove the following lines when in production mode
 defined('YII_DEBUG') or define('YII_DEBUG',true);
 // specify how many levels of call stack should be shown in each log message

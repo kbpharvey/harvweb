@@ -7,3 +7,480 @@ Stack trace:
 REQUEST_URI=/GIT/harvweb/index.php/menu/index
 HTTP_REFERER=http://localhost:8080/GIT/harvweb/index.php/budget/index
 ---
+2012/06/29 09:05:00 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\CListView.php(179): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(148): CListView->init()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\protected\views\budget\index.php(17): CBaseController->widget('zii.widgets.CLi...', Array)
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(133): CController->render('index', Array)
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#22 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php
+---
+2012/06/29 09:05:19 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\CListView.php(179): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(148): CListView->init()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\protected\views\budget\index.php(17): CBaseController->widget('zii.widgets.CLi...', Array)
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(133): CController->render('index', Array)
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#22 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+---
+2012/06/29 09:05:37 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\CListView.php(179): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(148): CListView->init()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\protected\views\budget\index.php(17): CBaseController->widget('zii.widgets.CLi...', Array)
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(133): CController->render('index', Array)
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#22 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php
+---
+2012/06/29 09:05:42 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\CListView.php(179): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(148): CListView->init()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\protected\views\menu\index.php(17): CBaseController->widget('zii.widgets.CLi...', Array)
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\MenuController.php(133): CController->render('index', Array)
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): MenuController->actionIndex()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('menu/index')
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#22 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/menu/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php
+---
+2012/06/29 09:05:56 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\GiiModule.php(139): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CComponent.php(112): GiiModule->getAssetsUrl()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CModule.php(106): CComponent->__get('assetsUrl')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="con...')
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="con...')
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(207): COutputProcessor->run()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\controllers\DefaultController.php(17): CController->render('index')
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): DefaultController->actionIndex()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('')
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#22 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#24 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/gii
+---
+2012/06/29 09:06:17 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\GiiModule.php(139): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CComponent.php(112): GiiModule->getAssetsUrl()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CModule.php(106): CComponent->__get('assetsUrl')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="con...')
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="con...')
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(207): COutputProcessor->run()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\controllers\DefaultController.php(17): CController->render('index')
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): DefaultController->actionIndex()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('')
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#22 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#24 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/gii
+---
+2012/06/29 09:07:18 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\GiiModule.php(139): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CComponent.php(112): GiiModule->getAssetsUrl()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CModule.php(106): CComponent->__get('assetsUrl')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="con...')
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="con...')
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(207): COutputProcessor->run()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\controllers\DefaultController.php(17): CController->render('index')
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): DefaultController->actionIndex()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('')
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#22 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#24 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/gii
+---
+2012/06/29 09:07:36 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'harv_web.budget' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `budget`.
+in C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php (130)
+in C:\wamp\www\htdocs\GITHUB\harvweb\index.php (20)
+2012/06/29 09:07:36 [error] [exception.CDbException] exception 'CDbException' with message 'The table "budget" for active record class "Budget" cannot be found in the database.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php:2264
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Budget))
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CActiveDataProvider.php(75): CActiveRecord::model('Budget')
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(130): CActiveDataProvider->__construct('Budget')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#16 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php/
+---
+2012/06/29 09:07:52 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'harv_web.budget' doesn't exist. The SQL statement executed was: SHOW COLUMNS FROM `budget`.
+in C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php (130)
+in C:\wamp\www\htdocs\GITHUB\harvweb\index.php (20)
+2012/06/29 09:07:52 [error] [exception.CDbException] exception 'CDbException' with message 'The table "budget" for active record class "Budget" cannot be found in the database.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php:2264
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Budget))
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CActiveDataProvider.php(75): CActiveRecord::model('Budget')
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(130): CActiveDataProvider->__construct('Budget')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#16 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php
+---
+2012/06/29 09:08:54 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\CListView.php(179): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(148): CListView->init()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\protected\views\budget\index.php(17): CBaseController->widget('zii.widgets.CLi...', Array)
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(133): CController->render('index', Array)
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#22 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php
+---
+2012/06/29 09:09:04 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\zii\widgets\CListView.php(179): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(148): CListView->init()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(173): CBaseController->createWidget('zii.widgets.CLi...', Array)
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\protected\views\budget\index.php(17): CBaseController->widget('zii.widgets.CLi...', Array)
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(870): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(783): CController->renderPartial('index', Array, true)
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(133): CController->render('index', Array)
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#22 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php
+---
+2012/06/29 09:09:13 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\GiiModule.php(139): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CComponent.php(112): GiiModule->getAssetsUrl()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CModule.php(106): CComponent->__get('assetsUrl')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="con...')
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="con...')
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(207): COutputProcessor->run()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\controllers\DefaultController.php(17): CController->render('index')
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): DefaultController->actionIndex()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('')
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#22 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#24 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/gii
+---
+2012/06/29 09:09:49 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\GiiModule.php(139): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CComponent.php(112): GiiModule->getAssetsUrl()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CModule.php(106): CComponent->__get('assetsUrl')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="con...')
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="con...')
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(207): COutputProcessor->run()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\controllers\DefaultController.php(17): CController->render('index')
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): DefaultController->actionIndex()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('')
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#22 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#24 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/gii
+---
+2012/06/29 10:57:01 [error] [exception.CDbException] exception 'CDbException' with message 'The table "budget" for active record class "Budget" cannot be found in the database.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php:2264
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Budget))
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CActiveDataProvider.php(75): CActiveRecord::model('Budget')
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(130): CActiveDataProvider->__construct('Budget')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#16 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php
+---
+2012/06/29 10:57:17 [error] [exception.CDbException] exception 'CDbException' with message 'The table "budget" for active record class "Budget" cannot be found in the database.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php:2264
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Budget))
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CActiveDataProvider.php(75): CActiveRecord::model('Budget')
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(130): CActiveDataProvider->__construct('Budget')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#16 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+---
+2012/06/29 10:57:24 [error] [exception.CException] exception 'CException' with message 'The asset "C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\assets" to be published does not exist.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CAssetManager.php:239
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\GiiModule.php(139): CAssetManager->publish('C:\wamp\www\htd...')
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CComponent.php(112): GiiModule->getAssetsUrl()
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CModule.php(106): CComponent->__get('assetsUrl')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\main.php(5): CModule->__get('assetsUrl')
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(77): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\CContentDecorator.php(55): CContentDecorator->decorate('<div class="con...')
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\widgets\COutputProcessor.php(45): CContentDecorator->processOutput('<div class="con...')
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(207): COutputProcessor->run()
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(301): CBaseController->endWidget('CContentDecorat...')
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\views\layouts\column1.php(7): CBaseController->endContent()
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(127): require('C:\wamp\www\htd...')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CBaseController.php(96): CBaseController->renderInternal('C:\wamp\www\htd...', Array, true)
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(785): CBaseController->renderFile('C:\wamp\www\htd...', Array, true)
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\framework\gii\controllers\DefaultController.php(17): CController->render('index')
+#16 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): DefaultController->actionIndex()
+#17 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#18 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(287): CController->runAction(Object(CInlineAction))
+#19 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#20 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('')
+#21 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('gii')
+#22 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#23 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(20): CApplication->run()
+#24 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/gii
+---
+2012/06/29 11:01:35 [error] [exception.CDbException] exception 'CDbException' with message 'The table "budget" for active record class "Budget" cannot be found in the database.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php:2264
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Budget))
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CActiveDataProvider.php(75): CActiveRecord::model('Budget')
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(130): CActiveDataProvider->__construct('Budget')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(21): CApplication->run()
+#16 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+---
+2012/06/29 11:02:58 [error] [exception.CDbException] exception 'CDbException' with message 'The table "budget" for active record class "Budget" cannot be found in the database.' in C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php:2264
+Stack trace:
+#0 C:\wamp\www\htdocs\GITHUB\harvweb\framework\db\ar\CActiveRecord.php(379): CActiveRecordMetaData->__construct(Object(Budget))
+#1 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CActiveDataProvider.php(75): CActiveRecord::model('Budget')
+#2 C:\wamp\www\htdocs\GITHUB\harvweb\protected\controllers\BudgetController.php(130): CActiveDataProvider->__construct('Budget')
+#3 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\actions\CInlineAction.php(50): BudgetController->actionIndex()
+#4 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(309): CInlineAction->runWithParams(Array)
+#5 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(134): CController->runAction(Object(CInlineAction))
+#6 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilter.php(41): CFilterChain->run()
+#7 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(1146): CFilter->filter(Object(CFilterChain))
+#8 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CInlineFilter.php(59): CController->filterAccessControl(Object(CFilterChain))
+#9 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\filters\CFilterChain.php(131): CInlineFilter->filter(Object(CFilterChain))
+#10 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(292): CFilterChain->run()
+#11 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CController.php(266): CController->runActionWithFilters(Object(CInlineAction), Array)
+#12 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(276): CController->run('index')
+#13 C:\wamp\www\htdocs\GITHUB\harvweb\framework\web\CWebApplication.php(135): CWebApplication->runController('budget/index')
+#14 C:\wamp\www\htdocs\GITHUB\harvweb\framework\base\CApplication.php(162): CWebApplication->processRequest()
+#15 C:\wamp\www\htdocs\GITHUB\harvweb\index.php(21): CApplication->run()
+#16 {main}
+REQUEST_URI=/GITHUB/harvweb/index.php/budget/index
+HTTP_REFERER=http://localhost:8080/GITHUB/harvweb/index.php/site/page?view=about
+---
