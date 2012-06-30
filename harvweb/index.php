@@ -12,6 +12,7 @@ if ($env == 'localhost:8080')
 		}
 $config=dirname(__FILE__)."/protected/config/$file";
 echo $config;
+echo "<br/> from harvdell";
 // remove the following lines when in production mode
 defined('YII_DEBUG') or define('YII_DEBUG',true);
 // specify how many levels of call stack should be shown in each log message
